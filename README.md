@@ -1,7 +1,7 @@
 # ApiAlbum
 creer un projet android studio 
 1) Soit l'API get https://jsonplaceholder.typicode.com/albums/1/photos, tester l'API sur votre navigateur et créer la classe Photo correspondant aux données JSON affichées (1pt)
-2) on veut consommer l'API en utilisant retrofit (5pt)
+2) on veut consommer l'API en utilisant retrofit (5pt)   
     a)ajouter les dépendances nécessaires au projet
     b) préparer l´interface api Photos néssaire contenant la méthode getPhotos   
     c)préparer l´objet RetrofitHelper permettant d´instancier la bibliothéque retrofit  
