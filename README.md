@@ -8,4 +8,4 @@ creer un projet android studio
     d)consommer l'api et afficher le résultat sur le console.
  
  3) on veut afficher la liste de photos comme suit:<br/>
- <img src=""/>
+ <img src="https://github.com/mouniraz/ApiAlbum/blob/main/ds.JPG"/>
