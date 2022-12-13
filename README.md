@@ -24,8 +24,8 @@ creer un projet android studio
     <img src="https://github.com/mouniraz/ApiAlbum/blob/main/Captureds3.JPG" />
     b) afficher l´interface finale contenant la Form et la liste de photos  
     c) ajouter la méthode    
-       ''kotlin
+       ``kotlin
     @GET("albums/{id}/photos")
 
         ....getPhotobyAlbum(@Path("id") id:Int).....
-    ''
+    ``
