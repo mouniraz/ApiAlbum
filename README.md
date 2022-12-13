@@ -24,11 +24,12 @@ creer un projet android studio
     <img src="https://github.com/mouniraz/ApiAlbum/blob/main/Captureds3.JPG" /><br/>
     b) afficher l´interface finale contenant la Form et la liste de photos    
     c) ajouter la méthode      
-       ``kotlin
+```kotlin
     @GET("albums/{id}/photos")
 
-        ....getPhotobyAlbum(@Path("id") id:Int).....   
-    ´´
+        ....getPhotobyAlbum(@Path("id") id:Int).....
+ 
+```
     d) transformer le code de sorte que initialement la liste est vide, si je tape un id d'album et je clique sur le bouton, on liste la liste de photos
     (la liste se transforme à un state global )
     utiliser la classe ViewModel ou declarer le state global et passer en paramètre aux deux composables dont on a besoin du state global
