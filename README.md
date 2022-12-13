@@ -9,6 +9,7 @@ creer un projet android studio
  
  3) on veut afficher la liste de photos comme suit:<br/> (5pt)
     <img src="https://github.com/mouniraz/ApiAlbum/blob/main/ds.JPG" heigt="250"/>
+    <br/>
      a) préparer un composable ItemPhoto(photo:Photo) qui affiche le titre et l´image 
      b) préparer un composable ListPhoto(photos:List<Photo>) permettant d´afficher une liste de ItemPhotos
      c) afficher la liste de photos, le résultat du méthode get ce-dessus 
@@ -18,7 +19,7 @@ creer un projet android studio
   4) Réellement, les photos dépendent de l'id de l'album 
     https://jsonplaceholder.typicode.com/albums/{id}/photos
     si on change l'id, le résultat change, pour celà on veut améliorer l´interface comme suit:<br/>
-    <img src="" height="200"/>
+    <img src="" height="200"/><br/>
     a) implementer la fonction composable Form qui contient la zone de saisie AlbumId et le button search comme suit 
     <img src="" />
     b) afficher l´interface finale contenant la Form et la liste de photos
