@@ -30,6 +30,8 @@ creer un projet android studio
         ....getPhotobyAlbum(@Path("id") id:Int).....
  
 ```
-    d) transformer le code de sorte que initialement la liste est vide, si je tape un id d'album et je clique sur le bouton, on liste la liste de photos
+    d) transformer le code de sorte que initialement la liste est vide, si je tape un id d'album et je clique sur le bouton, 
+    on liste la liste de photos
     (la liste se transforme à un state global )
-    utiliser la classe ViewModel ou declarer le state global et passer en paramètre aux deux composables dont on a besoin du state global
+    utiliser la classe ViewModel ou declarer le state global et passer en paramètre 
+    aux deux composables dont on a besoin du state global
